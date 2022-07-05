@@ -1,0 +1,14 @@
+.paragraphs{
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+
+.paragraphs h2{
+font-size: 40px;
+}
+
+.paragraphs p{
+  font-size: 20px;
+}
